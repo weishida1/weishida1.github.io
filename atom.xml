@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WSD</title>
+  
+  <subtitle>Shida Wei</subtitle>
+  <link href="https://weishida01.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://weishida01.github.io/"/>
+  <updated>2023-06-16T13:41:02.235Z</updated>
+  <id>https://weishida01.github.io/</id>
+  
+  <author>
+    <name>Shida Wei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Awesome Talking Face Generation</title>
+    <link href="https://weishida01.github.io/2023/06/16/xiao-bing/awesome-talking-face-generation/"/>
+    <id>https://weishida01.github.io/2023/06/16/xiao-bing/awesome-talking-face-generation/</id>
+    <published>2023-06-16T12:28:19.000Z</published>
+    <updated>2023-06-16T13:41:02.235Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Awesome-Talking-Face-Generation&quot;&gt;&lt;a href=&quot;#Awesome-Talking-Face-Generation&quot; class=&quot;headerlink&quot; title=&quot;Awesome Talking Face</summary>
+        
+      
+    
+    
+    
+    <category term="微软小冰" scheme="https://weishida01.github.io/categories/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0/"/>
+    
+    
+    <category term="微软小冰" scheme="https://weishida01.github.io/tags/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0/"/>
+    
+    <category term="talking face generation" scheme="https://weishida01.github.io/tags/talking-face-generation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>清华大学-猛狮无人驾驶实验室-自动驾驶环境感知组（ADEPT）- 交流学习</title>
+    <link href="https://weishida01.github.io/2023/06/16/qing-hua/qing-hua/"/>
+    <id>https://weishida01.github.io/2023/06/16/qing-hua/qing-hua/</id>
+    <published>2023-06-16T10:00:09.000Z</published>
+    <updated>2023-06-16T13:35:42.469Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-清华大学-猛狮无人驾驶实验室介绍&quot;&gt;&lt;a href=&quot;#1-清华大学-猛狮无人驾驶实验室介绍&quot; class=&quot;headerlink&quot; title=&quot;1. 清华大学-猛狮无人驾驶实验室介绍&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="清华" scheme="https://weishida01.github.io/categories/%E6%B8%85%E5%8D%8E/"/>
+    
+    
+    <category term="自动驾驶" scheme="https://weishida01.github.io/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/"/>
+    
+    <category term="清华" scheme="https://weishida01.github.io/tags/%E6%B8%85%E5%8D%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微软小冰实习</title>
+    <link href="https://weishida01.github.io/2023/06/16/xiao-bing/xiao-bing/"/>
+    <id>https://weishida01.github.io/2023/06/16/xiao-bing/xiao-bing/</id>
+    <published>2023-06-16T10:00:09.000Z</published>
+    <updated>2023-08-22T13:09:48.970Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-基于语音输入的landmark生成效果&quot;&gt;&lt;a href=&quot;#1-基于语音输入的landmark生成效果&quot; class=&quot;headerlink&quot; title=&quot;1. 基于语音输入的landmark生成效果&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="微软小冰" scheme="https://weishida01.github.io/categories/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0/"/>
+    
+    
+    <category term="微软小冰" scheme="https://weishida01.github.io/tags/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%86%B0/"/>
+    
+    <category term="talking face generation" scheme="https://weishida01.github.io/tags/talking-face-generation/"/>
+    
+    <category term="工作" scheme="https://weishida01.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+    <category term="实习" scheme="https://weishida01.github.io/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8-各大工业视觉软件分析</title>
+    <link href="https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/8-ge-da-gong-ye-shi-jue-ruan-jian-fen-xi/"/>
+    <id>https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/8-ge-da-gong-ye-shi-jue-ruan-jian-fen-xi/</id>
+    <published>2023-03-24T12:28:51.000Z</published>
+    <updated>2023-06-16T13:50:15.236Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-IRV&quot;&gt;&lt;a href=&quot;#1-IRV&quot; class=&quot;headerlink&quot; title=&quot;1. IRV&quot;&gt;&lt;/a&gt;1. IRV&lt;/h3&gt;&lt;h4 id=&quot;1-1-软件框架&quot;&gt;&lt;a href=&quot;#1-1-软件框架&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="工业视觉" scheme="https://weishida01.github.io/tags/%E5%B7%A5%E4%B8%9A%E8%A7%86%E8%A7%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>7-深度学习缺陷检测</title>
+    <link href="https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/7-shen-du-xue-xi-que-xian-jian-ce/"/>
+    <id>https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/7-shen-du-xue-xi-que-xian-jian-ce/</id>
+    <published>2023-03-24T12:05:20.000Z</published>
+    <updated>2023-03-24T12:27:11.433Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-灌装项目背景介绍&quot;&gt;&lt;a href=&quot;#1-灌装项目背景介绍&quot; class=&quot;headerlink&quot; title=&quot;1. 灌装项目背景介绍&quot;&gt;&lt;/a&gt;1. 灌装项目背景介绍&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="深度学习缺陷检测" scheme="https://weishida01.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BC%BA%E9%99%B7%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>6-OLED圆形手表屏幕缺陷检测</title>
+    <link href="https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/6-oled-yuan-xing-shou-biao-ping-mu-que-xian-jian-ce/"/>
+    <id>https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/6-oled-yuan-xing-shou-biao-ping-mu-que-xian-jian-ce/</id>
+    <published>2023-03-24T11:40:38.000Z</published>
+    <updated>2023-06-16T13:46:12.362Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-项目背景&quot;&gt;&lt;a href=&quot;#1-项目背景&quot; class=&quot;headerlink&quot; title=&quot;1. 项目背景&quot;&gt;&lt;/a&gt;1. 项目背景&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="屏幕AOI视觉检测" scheme="https://weishida01.github.io/tags/%E5%B1%8F%E5%B9%95AOI%E8%A7%86%E8%A7%89%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5-屏幕AOI视觉检测项目</title>
+    <link href="https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/5-ping-mu-aoi-shi-jue-jian-ce-xiang-mu/"/>
+    <id>https://weishida01.github.io/2023/03/24/gong-zuo-jing-li/5-ping-mu-aoi-shi-jue-jian-ce-xiang-mu/</id>
+    <published>2023-03-24T11:03:35.000Z</published>
+    <updated>2023-06-16T13:49:36.254Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-LCD手机屏幕结构&quot;&gt;&lt;a href=&quot;#1-LCD手机屏幕结构&quot; class=&quot;headerlink&quot; title=&quot;1. LCD手机屏幕结构&quot;&gt;&lt;/a&gt;1. LCD手机屏幕结构&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="屏幕AOI视觉检测" scheme="https://weishida01.github.io/tags/%E5%B1%8F%E5%B9%95AOI%E8%A7%86%E8%A7%89%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4-FPC曝光机4相机UVW平台对位项目</title>
+    <link href="https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/4-fpc-pu-guang-ji-4-xiang-ji-uvw-ping-tai-dui-wei-xiang-mu/"/>
+    <id>https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/4-fpc-pu-guang-ji-4-xiang-ji-uvw-ping-tai-dui-wei-xiang-mu/</id>
+    <published>2023-03-23T13:52:43.000Z</published>
+    <updated>2023-06-16T13:49:44.681Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-研发背景&quot;&gt;&lt;a href=&quot;#1-研发背景&quot; class=&quot;headerlink&quot; title=&quot;1. 研发背景&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="对位" scheme="https://weishida01.github.io/tags/%E5%AF%B9%E4%BD%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3-对位案例</title>
+    <link href="https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/3-dui-wei-an-li/"/>
+    <id>https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/3-dui-wei-an-li/</id>
+    <published>2023-03-23T13:09:10.000Z</published>
+    <updated>2023-06-16T13:50:08.471Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-五轴点胶&quot;&gt;&lt;a href=&quot;#1-五轴点胶&quot; class=&quot;headerlink&quot; title=&quot;1. 五轴点胶&quot;&gt;&lt;/a&gt;1. 五轴点胶&lt;/h3&gt;&lt;h4 id=&quot;1-1-盲孔屏点胶工艺简介&quot;&gt;&lt;a href=&quot;#1-1-盲孔屏点胶工艺简介&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="对位" scheme="https://weishida01.github.io/tags/%E5%AF%B9%E4%BD%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2-对位精度解耦</title>
+    <link href="https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/2-dui-wei-jing-du-jie-ou/"/>
+    <id>https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/2-dui-wei-jing-du-jie-ou/</id>
+    <published>2023-03-23T12:51:51.000Z</published>
+    <updated>2023-03-24T11:41:16.731Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-对位简介&quot;&gt;&lt;a href=&quot;#1-对位简介&quot; class=&quot;headerlink&quot; title=&quot;1. 对位简介&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="对位" scheme="https://weishida01.github.io/tags/%E5%AF%B9%E4%BD%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1-标定对位基础总结</title>
+    <link href="https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/1-biao-ding-dui-wei-ji-chu-zong-jie/"/>
+    <id>https://weishida01.github.io/2023/03/23/gong-zuo-jing-li/1-biao-ding-dui-wei-ji-chu-zong-jie/</id>
+    <published>2023-03-23T11:57:53.000Z</published>
+    <updated>2023-03-24T11:41:21.849Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-摄像机标定概述&quot;&gt;&lt;a href=&quot;#1-摄像机标定概述&quot; class=&quot;headerlink&quot; title=&quot;1. 摄像机标定概述&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="工作经历" scheme="https://weishida01.github.io/categories/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+    
+    
+    <category term="对位" scheme="https://weishida01.github.io/tags/%E5%AF%B9%E4%BD%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>19-GMM算法</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/19-gmm-suan-fa/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/19-gmm-suan-fa/</id>
+    <published>2023-03-22T09:06:51.000Z</published>
+    <updated>2023-03-22T09:23:59.178Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-GMM算法直观理解&quot;&gt;&lt;a href=&quot;#1-GMM算法直观理解&quot; class=&quot;headerlink&quot; title=&quot;1. GMM算法直观理解&quot;&gt;&lt;/a&gt;1. GMM算法直观理解&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="GMM算法" scheme="https://weishida01.github.io/tags/GMM%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>18-聚类算法</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/18-ju-lei-suan-fa/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/18-ju-lei-suan-fa/</id>
+    <published>2023-03-22T08:45:24.000Z</published>
+    <updated>2023-03-22T09:07:11.408Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-聚类算法-K-means&quot;&gt;&lt;a href=&quot;#1-聚类算法-K-means&quot; class=&quot;headerlink&quot; title=&quot;1. 聚类算法-K-means&quot;&gt;&lt;/a&gt;1. 聚类算法-K-means&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="聚类算法" scheme="https://weishida01.github.io/tags/%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>17-支持向量机SVM</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/17-zhi-chi-xiang-liang-ji-svm/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/17-zhi-chi-xiang-liang-ji-svm/</id>
+    <published>2023-03-22T08:32:41.000Z</published>
+    <updated>2023-03-22T08:44:02.142Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-数学概述&quot;&gt;&lt;a href=&quot;#1-数学概述&quot; class=&quot;headerlink&quot; title=&quot;1. 数学概述&quot;&gt;&lt;/a&gt;1. 数学概述&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="支持向量机SVM" scheme="https://weishida01.github.io/tags/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BASVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>16-朴素贝叶斯</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/16-po-su-bei-xie-si/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/16-po-su-bei-xie-si/</id>
+    <published>2023-03-22T08:16:12.000Z</published>
+    <updated>2023-03-22T08:33:07.596Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-贝叶斯公式&quot;&gt;&lt;a href=&quot;#1-贝叶斯公式&quot; class=&quot;headerlink&quot; title=&quot;1. 贝叶斯公式&quot;&gt;&lt;/a&gt;1. 贝叶斯公式&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="朴素贝叶斯" scheme="https://weishida01.github.io/tags/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>15-集成学习-Boosting-Adaboost-GBDT</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/15-ji-cheng-xue-xi-boosting-adaboost-gbdt/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/15-ji-cheng-xue-xi-boosting-adaboost-gbdt/</id>
+    <published>2023-03-22T05:56:53.000Z</published>
+    <updated>2023-03-22T08:14:44.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-Boosting集成算法&quot;&gt;&lt;a href=&quot;#1-Boosting集成算法&quot; class=&quot;headerlink&quot; title=&quot;1. Boosting集成算法&quot;&gt;&lt;/a&gt;1. Boosting集成算法&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="集成学习-Boosting-Adaboost-GBDT" scheme="https://weishida01.github.io/tags/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0-Boosting-Adaboost-GBDT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>14-集成学习-随即森林</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/14-ji-cheng-xue-xi-sui-ji-sen-lin/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/14-ji-cheng-xue-xi-sui-ji-sen-lin/</id>
+    <published>2023-03-22T05:29:20.000Z</published>
+    <updated>2023-03-22T05:54:49.350Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-集成学习概述&quot;&gt;&lt;a href=&quot;#1-集成学习概述&quot; class=&quot;headerlink&quot; title=&quot;1. 集成学习概述&quot;&gt;&lt;/a&gt;1. 集成学习概述&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="集成学习-随即森林" scheme="https://weishida01.github.io/tags/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0-%E9%9A%8F%E5%8D%B3%E6%A3%AE%E6%9E%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>13-决策树</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/13-jue-ce-shu/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/13-jue-ce-shu/</id>
+    <published>2023-03-22T03:30:54.000Z</published>
+    <updated>2023-03-22T05:27:49.569Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-决策树概述&quot;&gt;&lt;a href=&quot;#1-决策树概述&quot; class=&quot;headerlink&quot; title=&quot;1. 决策树概述&quot;&gt;&lt;/a&gt;1. 决策树概述&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="决策树" scheme="https://weishida01.github.io/tags/%E5%86%B3%E7%AD%96%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>12-K近邻算法</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/12-k-jin-lin-suan-fa/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/12-k-jin-lin-suan-fa/</id>
+    <published>2023-03-22T03:07:58.000Z</published>
+    <updated>2023-03-22T03:29:05.820Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-距离度量&quot;&gt;&lt;a href=&quot;#1-距离度量&quot; class=&quot;headerlink&quot; title=&quot;1. 距离度量&quot;&gt;&lt;/a&gt;1. 距离度量&lt;/h3&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="K近邻算法" scheme="https://weishida01.github.io/tags/K%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>11-逻辑回归</title>
+    <link href="https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/11-luo-ji-hui-gui/"/>
+    <id>https://weishida01.github.io/2023/03/22/shu-ju-fen-xi-ji-chu/11-luo-ji-hui-gui/</id>
+    <published>2023-03-22T02:41:53.000Z</published>
+    <updated>2023-03-22T03:06:01.015Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-概述&quot;&gt;&lt;a href=&quot;#1-概述&quot; class=&quot;headerlink&quot; title=&quot;1. 概述&quot;&gt;&lt;/a&gt;1. 概述&lt;/h3&gt;&lt;h4 id=&quot;1-1-概述&quot;&gt;&lt;a href=&quot;#1-1-概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="机器学习" scheme="https://weishida01.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="数据分析" scheme="https://weishida01.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+    <category term="逻辑回归" scheme="https://weishida01.github.io/tags/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/"/>
+    
+  </entry>
+  
+</feed>
